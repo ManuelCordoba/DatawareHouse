@@ -1,4 +1,6 @@
 # DatawareHouse
+
+![N|Solid](https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif)
 Todos los trabajos hechos en la asignatura de datawearhouse 
 
 Systems engineering student from Universidad San Buenaventura.
@@ -10,5 +12,3 @@ Systems engineering student from Universidad San Buenaventura.
 ### [Pentaho Data Integration](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Pentaho%20Data%20Integration "Pentaho Data Integration")
 ### [Proyecto](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Proyecto "Proyecto")
 ### [Sakila](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Sakila "Sakila")
-
-![N|Solid](https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif)
