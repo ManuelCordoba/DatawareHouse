@@ -11,4 +11,4 @@ Systems engineering student from Universidad San Buenaventura.
 ### [Proyecto](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Proyecto "Proyecto")
 ### [Sakila](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Sakila "Sakila")
 
-![N|Solid](https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif?vid=1)
+![N|Solid](https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif)
