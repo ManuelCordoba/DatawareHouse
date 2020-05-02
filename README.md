@@ -1,58 +1,18 @@
 # DatawareHouse
 
-                                      .M
-                                 .:AMMO:
-                        .:AMMMMMHIIIHMMM.
-              ....   .AMMMMMMMMMMMHHHMHHMMMML:AMF"
-            .:MMMMMLAMMMMMMMHMMMMMMHHIHHIIIHMMMML.
-                 "WMMMMMMMMMMMMMMMMMMH:::::HMMMMMMHII:.
-            .AMMMMMMMHHHMMMMMMMMMMHHHHHMMMMMMMMMAMMMHHHHL.
-          .MMMMMMMMMMHHMMMMMMMMHHHHMMMMMMMMMMMMMHTWMHHHHHML
-         .MMMMMMMMMMMMMMMMMMMHHHHHHHHHMHMMHHHHIII:::HMHHHHMM.
-         .MMMMMMMMMMMMMMMMMMMMMMHHHHHHMHHHHHHIIIIIIIIHMHHHHHM.
-         MMMMMMMMMMMMMMMMMHHMMHHHHHIIIHHH::IIHHII:::::IHHHHHHHL
-         "MMMMMMMMMMMMMMMMHIIIHMMMMHHIIHHLI::IIHHHHIIIHHHHHHHHML
-          .MMMMMMMMMMMMMM"WMMMHHHMMMMMMMMMMMLHHHMMMMMMHHHHHHHHHHH
-         .MMMMMMMMMMMWWMW   ""YYHMMMMMMMMMMMMF""HMMMMMMMMMHHHHHHHH.
-        .MMMMMMMMMM W" V                         W"WMMMMMHHHHHHHHHH
-       "MMMMMMMMMM".                                 "WHHHMH"HHHHHHL
-       MMMMMMMMMMF  .                                         IHHHHH.
-       MMMMMMMMMM .                                  .        HHHHHHH
-       MMMMMMMMMF. .                               .  .       HHHHHHH.
-       MMMMMMMMM .     ,AWMMMMML.              ..    .  .     HHHHHHH.
-     :MMMMMMMMM".  .  F"'    'WM:.         ,::HMMA, .  .      HHHHMMM
-     :MMMMMMMMF.  . ."         WH..      AMM"'     "  .  .    HHHMMMM
-      MMMMMMMM . .     ,;AAAHHWL"..     .:'                   HHHHHHH
-      MMMMMMM:. . .   -MK"OTO L :I..    ...:HMA-.             "HHHHHH
- ,:IIIILTMMMMI::.      L,,,,.  ::I..    .. K"OTO"ML           'HHHHHH
- LHT::LIIIIMMI::. .      '""'.IHH:..    .. :.,,,,           '  HMMMH:
-HLI'"IIITMII::.  .         .IIII.     . '""""               ' MMMFT:::.
- HML:::WMIINMHI:::.. .          .:I.     .   . .  .        '  .M"'.....I.
- "HWHINWI:.'.HHII::..          .HHI     .II.    .  .      . . :M.',, ..I:
-  "MLI"ML': :HHII::...        MMHHL     :::::  . :..      .'.'.'HHTML.II:
-   "MMLIHHWL:IHHII::....:I:" :MHHWHI:...:W,,"  '':::.      ..'  ":.HH:II:
-     "MMMHITIIHHH:::::IWF"    """T99"'  '""    '.':II:..'.'..'  I'.HHIHI
-       YMMHII:IHHHH:::IT..     . .   ...  . .    ''THHI::.'.' .;H.""."H"
-         HHII:MHHI"::IWWL     . .     .    .  .     HH"HHHIIHHH":HWWM"
-          """ MMHI::HY""ML,          ...     . ..  :"  :HIIIIIILTMH"
-               MMHI:.'    'HL,,,,,,,,..,,,......,:" . ''::HH "HWW
-               'MMH:..   . 'MMML,: """MM""""MMM"      .'.IH'"MH"
-                "MMHL..   .. "MMMMMML,MM,HMMMF    .   .IHM"
-                  "MMHHL    .. "MMMMMMMMMMMM"  . .  '.IHF'
-                    'MMMML    .. "MMMMMMMM"  .     .'HMF
-                     HHHMML.                    .'MMF"
-                    IHHHHHMML.               .'HMF"
-                    HHHHHHITMML.           .'IF..
-                    "HHHHHHIITML,.       ..:F...
-                     'HHHHHHHHHMMWWWWWW::"......
-                       HHHHHHHMMMMMMF"'........
-                        HHHHHHHHHH............
-                          HHHHHHHH...........
-                           HHHHIII..........
-                            HHIII..........
-                             HII.........
-                              "H........
-                                ......
+ 
+    .                          .                              .
+ .             o88888888888888  d88b  .  8888888b.  .                   .
+       .  .    Y88<""""888"""" j8PY8i    888   )88               .
+                Y8b.   888    ,8P  Y8,   88888888'         .
+_________________>88b  888    88888888   888  Y8b___________________________
+:::::::::88888888888P  888   d8P    Y8b  888   Y888888::::::''''''''''':::::
+:::::::::(                                           )::::::  M  U  D  :::::
+:::::::::Y8b  d88b  d8P  d88b   . 8888888b.  o88888888::::::...........:::::
+""""""""""88ij8888ij88' j8PY8i    888   )88  Y88<"""""""""""""""""""""""""""
+          "8888PY8888' ,8P  Y8,   88888888'   Y8b.   .          .
+    .      Y88P  Y88P  88888888   888  Y8b_____>88b           .
+  .      .  Y8'  "8P  d8P    Y8b  888   Y888888888P                       .
 
 ![N|Solid](https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif)
 #### Todos los trabajos hechos en la asignatura de datawearhouse 
