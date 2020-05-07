@@ -10,6 +10,5 @@ Systems engineering student from Universidad San Buenaventura.
 
 ### [Bitacoras](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Bitacoras "Bitacoras")
 ### [ETL examples](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Ejemplos%20de%20ETL "ETL examples")
-### [Pentaho Data Integration](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Pentaho%20Data%20Integration "Pentaho Data Integration")
 ### [Proyecto](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Proyecto "Proyecto")
 ### [Sakila](https://github.com/ManuelCordoba/DatawareHouse/tree/master/Sakila "Sakila")
