@@ -1,0 +1,60 @@
+[ {
+  "baseItem" : {
+    "id" : "_jl4FII_0EeqUcuh5lsSItQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-yixII_8EeqnH7CsVtvhVQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9Q5pIJAFEeq8Q7LbZ8Dcng",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_-yixII_8EeqnH7CsVtvhVQ - registro_covid",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9Q5pIJAFEeq8Q7LbZ8Dcng - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

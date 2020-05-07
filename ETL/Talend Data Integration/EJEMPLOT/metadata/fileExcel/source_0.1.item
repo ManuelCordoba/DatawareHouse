@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_QGGAwI_2EeqnH7CsVtvhVQ" name="source" dataPackage="_QGLgUI_2EeqnH7CsVtvhVQ" Server="Localhost 127.0.0.1" FilePath="D:/manue/GitKraken/DatawareHouse/Talend Data Integration/Source/CasosCOVID19.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Casos_positivos_de_COVID-19_en_" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Casos_positivos_de_COVID-19_en_:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_QGLgUI_2EeqnH7CsVtvhVQ" name="default" dataManager="_QGGAwI_2EeqnH7CsVtvhVQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_QGLgUY_2EeqnH7CsVtvhVQ" id="_RPUvII_1EeqnH7CsVtvhVQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgUo_2EeqnH7CsVtvhVQ" label="id_caso" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgU4_2EeqnH7CsVtvhVQ" label="fecha_diagnostico" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgVI_2EeqnH7CsVtvhVQ" label="ciudad_ubicacion" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgVY_2EeqnH7CsVtvhVQ" label="departamento" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgVo_2EeqnH7CsVtvhVQ" label="atencion" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgV4_2EeqnH7CsVtvhVQ" label="edad" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgWI_2EeqnH7CsVtvhVQ" label="sexo" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgWY_2EeqnH7CsVtvhVQ" label="tipo" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QGLgWo_2EeqnH7CsVtvhVQ" label="pais_procedencia" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

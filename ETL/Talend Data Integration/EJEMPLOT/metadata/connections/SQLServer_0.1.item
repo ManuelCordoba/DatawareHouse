@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_yb0-AI_6EeqnH7CsVtvhVQ" name="SQLServer" id="_TPsO8I_2EeqnH7CsVtvhVQ" label="SQLServer" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://DESKTOP-PHOENIX:1433/Casos_covid_19;" dbVersionString="JTDS" Port="1433" Username="DESKTOP-PHOENIX" Password="" ServerName="DESKTOP-PHOENIX" DatasourceName="" FileFieldName="" SID="Casos_covid_19" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+  <taggedValue xmi:id="_yb2MII_6EeqnH7CsVtvhVQ" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_ycUGMI_6EeqnH7CsVtvhVQ" tag="package filter" value=""/>
+  <taggedValue xmi:id="_yceeQI_6EeqnH7CsVtvhVQ" tag="Status" value=""/>
+  <taggedValue xmi:id="_yceeQY_6EeqnH7CsVtvhVQ" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_yceeQo_6EeqnH7CsVtvhVQ" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_yceeQ4_6EeqnH7CsVtvhVQ" tag="Description" value=""/>
+  <taggedValue xmi:id="_yceeRI_6EeqnH7CsVtvhVQ" tag="Author" value=""/>
+  <taggedValue xmi:id="_yceeRY_6EeqnH7CsVtvhVQ" tag="otherParameter"/>
+  <parameters xmi:id="_yb2MIY_6EeqnH7CsVtvhVQ" key="CONN_PARA_KEY_USERNAME" value="DESKTOP-PHOENIX"/>
+</TalendMetadata:DatabaseConnection>
