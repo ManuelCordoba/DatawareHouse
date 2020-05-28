@@ -1,5 +1,0 @@
-id_ocupon ,nomb
-1,Barbero
-2,Estilista,peinadoras
-3,Manicurista
-4,Propietario estilista
